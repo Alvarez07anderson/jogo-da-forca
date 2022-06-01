@@ -1,0 +1,1 @@
+const palavras = ["casa", "perro", "gato", "desenhar", "real", "incrivel", "faculdade", "esportes", "familia", "onibus", "praia", "saudade", "libertade", "dica", "telefone", "aplicativo", "lembrar", "feijoada", "brasil", "legal"];
